@@ -1,9 +1,9 @@
 const path = require('path');
 
 module.exports = {
-  projectId: 'centering-valve-501309-m8',
+  projectId: 'centering-valvs-401309-m2',
   emailsToAdd: [
-    'calvinsongele@gmail.com', 
+    'xyz@gmail.com', 
   ],
   profileDir: path.join(__dirname, 'chrome-profile'),
   timeout: 30000,
